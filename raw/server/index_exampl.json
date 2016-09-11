@@ -1,0 +1,20 @@
+{
+  "features": {
+    "root": "/texts",
+    "versionmask": "v",
+    "list": [
+      {
+        "name": "Feature 1",
+        "url": "local/path/to",
+        "hash": "base58hash",
+        "version": "1"
+      },
+      {
+        "name": "Feature 2",
+        "url": "local/path/to",
+        "hash": "base58hash",
+        "version": "1"
+      }
+    ]
+  }
+}

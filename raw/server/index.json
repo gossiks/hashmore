@@ -1,0 +1,40 @@
+{
+    "root": "/texts",
+    "version_prefix": "v",
+    "list": [
+        {
+            "list": [
+                {
+                    "url": "raw/server/texts/feature_1/v11/feature_text_1.json",
+                    "version": 11,
+                    "hash": "f3c3fb8154799870ab31d76fed63c3e38fd80a83",
+                    "name": "feature_text_1.json"
+                },
+                {
+                    "url": "raw/server/texts/feature_1/v11/feature_text_2.json",
+                    "version": 11,
+                    "hash": "f1559bfd348b9840f49110bc9247a3e61cb6121e",
+                    "name": "feature_text_2.json"
+                }
+            ],
+            "name": "feature_1"
+        },
+        {
+            "list": [
+                {
+                    "url": "raw/server/texts/feature_2/v11/feature_text_1.json",
+                    "version": 11,
+                    "hash": "f3c3fb8154799870ab31d76fed63c3e38fd80a83",
+                    "name": "feature_text_1.json"
+                },
+                {
+                    "url": "raw/server/texts/feature_2/v11/feature_text_2.json",
+                    "version": 11,
+                    "hash": "f1559bfd348b9840f49110bc9247a3e61cb6121e",
+                    "name": "feature_text_2.json"
+                }
+            ],
+            "name": "feature_2"
+        }
+    ]
+}
